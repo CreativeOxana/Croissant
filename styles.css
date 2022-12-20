@@ -8,8 +8,10 @@ p {
 }
 
 a {
-  margin: 50 auto;
-  padding: 100px;
+  display: block;
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
 }
 
 img {
